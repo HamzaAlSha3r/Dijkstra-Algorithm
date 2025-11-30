@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/hamza/Desktop/University courses/Data Structure - Hamza Al Shaer/proj4/cmake-build-debug",
-		"source" : "C:/Users/hamza/Desktop/University courses/Data Structure - Hamza Al Shaer/proj4"
+		"build" : "C:/Users/hamza/Desktop/Dijkstra-Algorithm/cmake-build-debug",
+		"source" : "C:/Users/hamza/Desktop/Dijkstra-Algorithm"
 	},
 	"version" : 
 	{
